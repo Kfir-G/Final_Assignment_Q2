@@ -1,0 +1,22 @@
+0;0;How COVID 19 speard?;By Air;By sea;
+1;0;Warm wether will stop the speard?;No;Yes;
+2;1;Can mousquitoes spead the virus?;No;Yes;We dont know;maybe;
+3;0;It is OK to donate blood?;No;Yes;
+4;0;Does children can get sick?;Yes;No;
+5;1;What to do if I get sick?;Stay home;Go to the hospital;kiss anyone;hug everybog;
+6;0;Can dogs have a Covid 19?;No;Yes;
+7;1;Where it showed up firstly;China;USA;Israel;Norway;
+8;0;It is like the SARS?;No;Yes;
+9;0;There are some people with high risk?;Yes;No;
+10;1;There is a test too find out?;Yes;No;Only in US;
+11;0;A high temp is a symptom?;Yes;No;
+12;1;What is the distance to kepp?;2;3;4;
+13;1;Which country have the most deaths cases?;USA;UK;UAE;Russia;
+14;0;Can COVID 19 live in water;Yes;No;
+15;0;What type of virus if COVID19?;RNA;DNA;
+16;0;What is the size of COVID 19?;3;5;
+17;1;When it showed up?;Jun;Dec;Jul;Aug;
+18;0;Antibiotic helps?;No;Yes;
+19;0;mask face helps?;Yes;No
+20 ;0;כעדג ;דגע;גדע;
+21 ;0;hi? ;yes;no;

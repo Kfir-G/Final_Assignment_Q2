@@ -1,0 +1,14 @@
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\bin\Debug\Final_Assignment_Q2.exe.config
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\bin\Debug\Final_Assignment_Q2.exe
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\bin\Debug\Final_Assignment_Q2.pdb
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.csprojAssemblyReference.cache
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.Properties.Resources.resources
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.csproj.GenerateResource.cache
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.exe
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.pdb
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.Form1.resources
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.Main.resources
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.ReadData.resources
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.Exam.resources
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.UpdateData.resources
+C:\Users\kfirg\Desktop\משימה 2\Final_Assignment_Q2\Final_Assignment_Q2\obj\Debug\Final_Assignment_Q2.UpdateQuestion.resources

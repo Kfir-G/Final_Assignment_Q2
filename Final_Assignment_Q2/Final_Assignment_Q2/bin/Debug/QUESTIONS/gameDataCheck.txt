@@ -1,0 +1,21 @@
+0;0; What’s more important for preventing infection?;test; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+1;0; What’s more important for preventing infection?;test; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+2;1; What’s more important for preventing infection?; test2; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b
+3;1; What’s more important for preventing infection?; Wearing a face mask; test3;Usage of hot water instead of cold water when washing hands;a;b;
+4;0; What’s more important for preventing infection?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+5;1; What’s more important for preventing infection?; Wearing a face mask; test4;Usage of hot water instead of cold water when washing hands;a;b;
+6;0; What’s more important for preventing infection?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+7;0; What’s more important for preventing infection?;test; Frequent hand-washing;Usage of hot water instead of cold water when washing hands2;a;b;
+8;1; What’s more important for preventing infection?; test2; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+9;1; What’s more important for preventing infection?; Wearing a face mask; test3;Usage of hot water instead of cold water when washing hands;a;b;
+10;0; What’s more important for preventing infection?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+11;1; What’s more important for preventing infection?; Wearing a face mask; test4;Usage of hot water instead of cold water when washing hands;a;b;
+12;0; What’s more important for preventing infection?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b
+13;0; What’s more important for preventing infection?;test; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+14;1; What’s more important for preventing infection?; test2; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+15;1; What’s more important for preventing infection?; Wearing a face mask; test3;Usage of hot water instead of cold water when washing hands;a;b;
+16;0; What’s more important for preventing infection?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+17;1; What’s more important for preventing infection?; Wearing a face mask; test4;Usage of hot water instead of cold water when washing hands;a;b;
+18;0; What’s more important for preventing infection?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
+19;1; What’s more important for preventing infection?; Wearing a face mask; test4;Usage of hot water instead of cold water when washing hands;a;b;
+20;0; Kfir?; Wearing a face mask; Frequent hand-washing;Usage of hot water instead of cold water when washing hands;a;b;
